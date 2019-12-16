@@ -1,5 +1,6 @@
 eat = input("are you hungry?:")
 if eat == "Yes":
-  print "go to eat"
+  print ("may be eat")
 else: 
-  print "die"
+  print ("lox")
+  
