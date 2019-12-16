@@ -1,12 +1,6 @@
 eat = input("are you hungry?:")
 if eat == "Yes":
-  print "go to eat"
+  print ("may be eat")
 else: 
-  print "die"
-
-def number(x):
-   if x >0:
-     return("number bigger 0")
-     
-y=number(int(input()))   
-print(y) 
+  print ("lox")
+  
